@@ -1,2 +1,2 @@
 # Web-Demo
-This repository is only for practice
+This repository is only for practice.
