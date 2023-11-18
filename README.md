@@ -4,5 +4,5 @@ This repository is only for practice.
 # Teacher
 "Aman Sir"
 
-#Student 
+# Student 
 "Rohit Singh"
